@@ -37,8 +37,8 @@ This app should be deployed using Heroku.
 
 ***
 
-HEROKU LINK: X
+HEROKU LINK: https://infinite-harbor-06294.herokuapp.com/
 
-https://github.com/tracy80s2003/employee-tracker
+https://github.com/tracy80s2003/workout-tracker
 
-https://tracy80s2003.github.io/employee-tracker/
+https://tracy80s2003.github.io/workout-tracker/

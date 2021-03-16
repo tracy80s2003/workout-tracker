@@ -1,3 +1,11 @@
+fetch("/api/workouts")
+  .then(response => {
+    return response.json();
+  })
+  .then(data => {
+    populateChart(data);
+  });
+
 function generatePalette() {
   const arr = [
     '#003f5c',
